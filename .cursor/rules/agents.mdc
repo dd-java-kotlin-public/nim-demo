@@ -1,0 +1,9 @@
+---
+description: Repository guidelines, contract enforcement, and change discipline
+globs: *
+alwaysApply: true
+---
+
+# Repository Guidelines
+
+See `AGENTS.md` in the repository root for repository guidelines, constraints, change discipline, and precedence hierarchy.
